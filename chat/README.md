@@ -1,11 +1,6 @@
-Example chat box with ReactJS and Bootstrap.\n
+Example chat box with ReactJS and Bootstrap.
 
-In the project directory, you can run:\n
-
-cd chat \n
-npm start
-
-### Good First Issues
+### In the project directory, you can run:
 
 cd chat
 npm start
