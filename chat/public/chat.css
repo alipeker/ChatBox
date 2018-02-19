@@ -1,0 +1,17 @@
+.person:hover {
+    background-color: rgb(223, 232, 236);
+    color: black;
+    text-decoration: none;
+  }
+  
+  .person{
+    padding: 10px;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-block-start-width: "1px solid #DCDFE1";
+  }
+
+  .media-body{
+    padding-left: 10px;
+  }
